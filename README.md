@@ -82,11 +82,3 @@ This project is licensed under the MIT License – feel free to use, share, and 
 
 ---
 
-### ✅ Now:
-1. Go to your `README.md` file on GitHub
-2. Click the **edit (📝)** icon
-3. **Replace everything** with the content above
-4. Click **“Commit changes”**
-
-Let me know once you update it — I’ll check it and give you feedback if needed! 🌟
-
